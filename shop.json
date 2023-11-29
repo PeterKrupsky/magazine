@@ -46,7 +46,7 @@
     "vendor_code": "4446e",
     "description": "Описание 6",
     "price": 400,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "7",
@@ -54,7 +54,7 @@
     "vendor_code": "4447e",
     "description": "Описание 7",
     "price": 700,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "8",
