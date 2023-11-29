@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "ром",
     "price": 1000,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Описание 2",
     "price": 2,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "vendor_code": "333",
     "description": "Описание 3",
     "price": 300,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "vendor_code": "444e",
     "description": "Описание 4",
     "price": 1200,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   }
   ,
   {
@@ -38,7 +38,7 @@
     "vendor_code": "4445e",
     "description": "Описание 6",
     "price": 400,
-    "img": "/Users/macbookpeter/Desktop/Вшэ доки/Основы Веб/КР2/c25c94fe96_1000.jpg"
+    "img": "c25c94fe96_1000.jpg"
   },
   {
     "id": "6",
