@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "",
     "price": 1000,
-    "img": "valli.jpg"
+    "img": "https://m.dom-eda.com/uploads/images/catalog/item/86df51de21/c25c94fe96_1000.jpg"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Описание 2",
     "price": 2,
-    "img": "cat.jpg"
+    "img": "https://m.dom-eda.com/uploads/images/catalog/item/86df51de21/c25c94fe96_1000.jpg"
   },
   {
     "id": "3",
