@@ -5,7 +5,7 @@
     "vendor_code": "111",
     "description": "ром",
     "price": 1000,
-    "img": "https://m.dom-eda.com/uploads/images/catalog/item/86df51de21/c25c94fe96_1000.jpg"
+    "img": "https://github.com/PeterKrupsky/magazine/blob/main/c25c94fe96_1000.jpg?raw=true"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "vendor_code": "222",
     "description": "Описание 2",
     "price": 2,
-    "img": "c25c94fe96_1000.jpg"
+    "img": "https://github.com/PeterKrupsky/magazine/blob/main/c25c94fe96_1000.jpg?raw=true"
   },
   {
     "id": "3",
